@@ -1,0 +1,38 @@
+PODS:
+  - Alamofire (4.2.0)
+  - ARCarMovement (2.0.2):
+    - GoogleMaps (~> 2.0)
+  - GoogleMaps (2.7.0):
+    - GoogleMaps/Maps (= 2.7.0)
+  - GoogleMaps/Base (2.7.0)
+  - GoogleMaps/Maps (2.7.0):
+    - GoogleMaps/Base
+  - GooglePlaces (2.7.0):
+    - GoogleMaps/Base (= 2.7.0)
+  - SwiftyJSON (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.2.0)
+  - ARCarMovement
+  - GoogleMaps
+  - GooglePlaces
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - ARCarMovement
+    - GoogleMaps
+    - GooglePlaces
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  ARCarMovement: 1bccf797758b57ae98a60c7aecade5fd20c97422
+  GoogleMaps: f79af95cb24d869457b1f961c93d3ce8b2f3b848
+  GooglePlaces: 3d06e6c99654545b4738ce49648745779c25f2ef
+  SwiftyJSON: c4bcba26dd9ec7a027fc8eade48e2c911f229e96
+
+PODFILE CHECKSUM: d693b1f7f3aec68ab7d244b85ab6463dc218e7c4
+
+COCOAPODS: 1.5.3
